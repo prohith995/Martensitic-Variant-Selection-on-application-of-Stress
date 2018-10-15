@@ -1,0 +1,2 @@
+This folder contains all the files required to solve the problems using normal equation method.
+The file to be run is the "execution.py" file. It runs the required functions from "other_functions.py" file and some other repetitive functions were used from "functions.py".
